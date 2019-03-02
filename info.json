@@ -1,11 +1,11 @@
 {
     "name": "electric-vehicles-reborn",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Electric Vehicles: Reborn",
     "author": ".-PiteR-.",
     "homepage": "https://github.com/March3wQa/Electric-Vehicles-Reborn",
     "description": "Electric vehicles running on battery energy. Based on mknejp's Electric Vehicles mod.",
-    "factorio_version": "0.16",
+    "factorio_version": "0.17",
     "dependencies": ["base >= 0.16.51", "electric-vehicles-lib-reborn>=0.1.0"],
     "license": "MIT"
   }
