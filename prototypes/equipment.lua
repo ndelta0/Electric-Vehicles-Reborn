@@ -66,7 +66,7 @@ data:extend
     energy_source =
     {
       type = "electric",
-      buffer_capacity = math.ceil(5 / 60) .. "MW",
+      buffer_capacity = math.ceil(5 / 60) .. "MJ",
       input_flow_limit = 5 .. "MW",
       output_flow_limit = "0W",
       usage_priority = "primary-input"
